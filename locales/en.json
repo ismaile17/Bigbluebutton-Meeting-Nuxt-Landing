@@ -1,0 +1,302 @@
+{
+    "section_title": "Plan Your Meetings Professionally",
+    "section_description": "Easily manage your participants, report, improve and perfect your meetings.",
+    "signup_button": "Sign Up",
+    "pricing_button": "Pricing List",
+
+    "section_header": "Manage your meetings professionally and securely.",
+    "section_paragraph": "Manage your meeting and training processes professionally, organize participants efficiently, and increase overall business efficiency by optimizing with detailed analyses.",
+    "checklist_item_1": "Register your participants easily.",
+    "checklist_item_2": "Organize participants into groups for more efficient meetings.",
+    "checklist_item_3": "Select groups to join the meeting and start the meeting.",
+    "checklist_item_4": "Analyze and improve the efficiency of your meetings.",
+    "checklist_item_5": "Or share a link to invite your guests to the meeting.",
+
+    "section_quote": "Manage your meeting and training processes in a cost-effective, systematic, reportable, and most reliable way, organize participants efficiently, and increase overall business efficiency by optimizing with detailed analyses.",
+    "feature_title_1": "1. GDPR Compliance",
+    "feature_description_1": "The only online meeting platform in Turkey that complies with GDPR regulations.",
+    "feature_title_2": "2. Plan Quickly",
+    "feature_description_2": "Plan meetings quickly by selecting a date from your calendar with great detail.",
+    "feature_title_3": "3. Manage Groups",
+    "feature_description_3": "Quickly create participants and easily manage them by adding them to groups.",
+
+  
+    "pricing_title": "pricing table",
+    "pricing_subtitle": "Sign up now to try for free and explore all our features",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "choose_plan": "Choose Plan",
+    "projects": "Projects",
+    "api_access": "API Access",
+    "storage": "Storage",
+    "weekly_reports": "Weekly Reports",
+    "support": "24/7 Support",
+  
+    "join_us": "Join us now and manage your meetings professionally.",
+    "sign_up": "Sign Up",
+    "signin": "Sign In",
+    "signup": "Sign Up",
+    "try_for_free": "Try for Free",
+
+    "footer_copyright": "All rights reserved.",
+    "footer_address_title": "Address",
+    "footer_address": "Moonshine St. 14/05 New Jersey, America",
+    "footer_about_title": "About Us",
+    "footer_newsletter_title": "Newsletter Subscription",
+    "footer_newsletter_text": "Subscribe to get notified about our special offers.",
+    "footer_email_placeholder": "Email Address",
+    "footer_email_label": "Email",
+    "footer_subscribe_button": "Subscribe",
+
+    "privacy_policy": "Privacy Policy",
+    "terms_and_conditions": "Terms and Conditions",
+    "about_sss": "F.A.Q.",
+
+
+    "faq2_1_question": "How can I get my subscription invoice?",
+    "faq2_1_answer": "You can get your subscription invoice from the account settings section or from the invoices sent to your email address.",
+    "faq2_2_question": "Do you support universities or foundations?",
+    "faq2_2_answer": "Yes, we offer special discounts for university clubs, events, or foundations under certain conditions. For more information, you can contact our customer service.",
+    "faq2_3_question": "Do you offer a free trial?",
+    "faq2_3_answer": "Yes, we offer a free trial for a certain period of time to try our platform for free. You can benefit from the free trial by registering.",
+    "faq2_4_question": "Are my personal data transferred abroad?",
+    "faq2_4_answer": "No, your personal data is stored and processed only on local servers in accordance with GDPR. All necessary measures are taken to ensure that your data is not transferred abroad.",
+    "faq2_5_question": "Are my meetings recorded?",
+    "faq2_5_answer": "Yes, you have the option to record your meetings. Recorded meetings are stored securely and are only accessible by authorized persons.",
+    "faq2_6_question": "How can I join a meeting?",
+    "faq2_6_answer": "You can join by clicking the meeting link in the invitation email or by accessing the meeting details from your management panel.",
+    "faq2_7_question": "Can I get technical support during the meeting?",
+    "faq2_7_answer": "Yes, you can get help from our 24/7 live support team during your meetings. You can contact us immediately using the support button for an instant solution.",
+  
+    "faq3_1_question": "Can I cancel my subscription?",
+    "faq3_1_answer": "Yes, you can cancel your subscription at any time. Just contact us.",
+    "faq3_2_question": "What payment methods do you accept?",
+    "faq3_2_answer": "We accept various payment methods such as credit card, bank card, or wire transfer. For more information about payment options, please visit our payment page.",
+    "faq3_3_question": "How can I manage my account?",
+    "faq3_3_answer": "You can update your profile information, change your password, and manage your subscription options by logging into your account settings.",
+    "faq3_4_question": "How do you comply with GDPR?",
+    "faq3_4_answer": "Meeting2.me takes all necessary measures within the scope of the Personal Data Protection Law (GDPR). Your data is stored securely on our servers and is not shared with third parties. For detailed information, you can review our privacy policy.",
+    "faq3_5_question": "How can I reset my password?",
+    "faq3_5_answer": "You can reset your password by clicking the 'Forgot Password' link on the login page or from your profile settings. Follow the instructions sent to your email to create a new password.",
+    "faq3_6_question": "How secure is my data?",
+    "faq3_6_answer": "Your data security is our priority. All your data is protected with industry-standard encryption techniques and regular security audits are conducted.",
+    "faq3_7_question": "How can I report my meetings?",
+    "faq3_7_answer": "You can view and download detailed reports of your meetings from the management panel. The reports include participant durations, attendance status, and other important metrics.",
+
+    
+      "features10_1_title": "Live Support",
+      "features10_1_description": "We offer 24/7 live support service accessible during your meetings.",
+      "features10_2_title": "Effective Meeting Management",
+      "features10_2_description": "Organize your participants efficiently with easy and effective meeting management.",
+      "features10_3_title": "Easy Integration",
+      "features10_3_description": "Quick and seamless integration with your existing systems, ensuring no interruption to your workflow.",
+      "features10_4_title": "Detailed Analytics",
+      "features10_4_description": "Comprehensive analysis and reporting tools to increase the efficiency of your meetings.",
+
+      
+      "faq_section_title": "Frequently Asked Questions",
+      "faq_section_subtitle": "You can contact us for all questions that you cannot find the answer to.",
+
+      "homepage": "Homepage",
+      "about_faq": "About & FAQ",
+      "pricing": "Pricing",
+      "contact": "Contact",
+
+
+    
+      "pricing_faq_title": "Pricing FAQ",
+      "pricing_faq_subtitle": "If you don't see an answer to your question, you can send us an email from our contact form.",
+      "pricing_faq2_1_question": "How can I get my subscription invoice?",
+      "pricing_faq2_1_answer": "You can get your subscription invoice from the account settings section or from the invoices sent to your email address.",
+      "pricing_faq2_2_question": "Do you support universities or foundations?",
+      "pricing_faq2_2_answer": "Yes, we offer special discounts for university clubs, events, or foundations under certain conditions. For more information, you can contact our customer service.",
+      "pricing_faq2_3_question": "Do you offer a free trial?",
+      "pricing_faq2_3_answer": "Yes, we offer a free trial for a certain period of time to try our platform for free. You can benefit from the free trial by registering.",
+      "pricing_faq2_4_question": "Are my personal data transferred abroad?",
+      "pricing_faq2_4_answer": "No, your personal data is stored and processed only on local servers in accordance with GDPR. All necessary measures are taken to ensure that your data is not transferred abroad.",
+      "pricing_faq2_5_question": "Are my meetings recorded?",
+      "pricing_faq2_5_answer": "Yes, you have the option to record your meetings. Recorded meetings are stored securely and are only accessible by authorized persons.",
+      "pricing_faq2_6_question": "How can I join a meeting?",
+      "pricing_faq2_6_answer": "You can join by clicking the meeting link in the invitation email or by accessing the meeting details from your management panel.",
+      "pricing_faq2_7_question": "Can I get technical support during the meeting?",
+      "pricing_faq2_7_answer": "Yes, you can get help from our 24/7 live support team during your meetings. You can contact us immediately using the support button for an instant solution.",
+      "pricing_faq3_1_question": "Can I cancel my subscription?",
+      "pricing_faq3_1_answer": "Yes, you can cancel your subscription at any time. Just contact us.",
+      "pricing_faq3_2_question": "What payment methods do you accept?",
+      "pricing_faq3_2_answer": "We accept various payment methods such as credit card, bank card, or wire transfer. For more information about payment options, please visit our payment page.",
+      "pricing_faq3_3_question": "How can I manage my account?",
+      "pricing_faq3_3_answer": "You can update your profile information, change your password, and manage your subscription options by logging into your account settings.",
+      "pricing_faq3_4_question": "How do you comply with GDPR?",
+      "pricing_faq3_4_answer": "Meeting2.me takes all necessary measures within the scope of the Personal Data Protection Law (GDPR). Your data is stored securely on our servers and is not shared with third parties. For detailed information, you can review our privacy policy.",
+      "pricing_faq3_5_question": "How can I reset my password?",
+      "pricing_faq3_5_answer": "You can reset your password by clicking the 'Forgot Password' link on the login page or from your profile settings. Follow the instructions sent to your email to create a new password.",
+      "pricing_faq3_6_question": "How secure is my data?",
+      "pricing_faq3_6_answer": "Your data security is our priority. All your data is protected with industry-standard encryption techniques and regular security audits are conducted.",
+      "pricing_faq3_7_question": "How can I report my meetings?",
+      "pricing_faq3_7_answer": "You can view and download detailed reports of your meetings from the management panel. The reports include participant durations, attendance status, and other important metrics.",
+
+      "join_community_title": "Join Our Community",
+      "join_community_subtitle": "We are trusted by over 5000+ clients. Join them by using our services and grow your business.",
+      "join_community_button": "Join Us",
+
+      "contact_us_title": "Contact Us",
+      "breadcrumb_home": "Home",
+      "breadcrumb_contact": "Contact",
+
+      "contact_title": "Contact Us",
+      "contact_heading": "Get in touch with us",
+      "contact_users": "Users",
+      "contact_form_title": "Contact Form",
+      "contact_form_subtitle": "Please get in touch to get a detailed price quote and convey your requests.",
+      "contact_form_name_label": "Name *",
+      "contact_form_surname_label": "Surname *",
+      "contact_form_email_label": "Email *",
+      "contact_form_department_label": "About you",
+      "contact_form_department_option1": "Trainer",
+      "contact_form_department_option2": "Company Employee",
+      "contact_form_department_option3": "Company Owner",
+      "contact_form_message_label": "Detailed Message *",
+      "contact_form_submit": "Send",
+      "contact_form_required_note": "* Required fields.",
+
+      "signup_title": "Sign up to - 2.Me",
+      "signup_subtitle": "Registration takes less than a minute.",
+      "signup_name_label": "Name",
+      "signup_email_label": "Email",
+      "signup_password_label": "Password",
+      "signup_confirm_password_label": "Confirm Password",
+      "signup_already_have_account": "Already have an account?",
+      "signup_signin": "Sign in",
+      "signup_or": "or",
+
+      "signin_title": "Welcome Back",
+      "signin_subtitle": "Fill your email and password to sign in.",
+      "signin_email_label": "Email",
+      "signin_password_label": "Password",
+      "signin_button": "Sign In",
+      "signin_forgot_password": "Forgot Password?",
+      "signin_no_account": "Don't have an account?",
+      "signin_signup": "Sign up",
+      "signin_or": "or",
+      "signup_phone_label": "Phone Number",
+      "signup_phone_optional": "Not mandatory",
+      "signup_logged_in_message": "You must log out first to access this page",
+      "signup_logout_button": "Log Out",
+      "panel": "Yönetici Paneli",
+      "welcome_message": "Welcome,",
+      "admin_panel_message": "You can start organizing your meetings by going to the Admin Panel.",
+      "go_to_admin_panel": "Go to Admin Panel",
+
+
+
+
+      
+      "pricing_page_title": "Pricing List",
+      "pricing_page_description": "We offer great prices, premium products and quality service for your business.",
+    
+    
+      
+      "monthly_label": "Monthly",
+      "yearly_label": "Yearly",
+      "choose_plan_button": "Choose Plan",
+      "projects_label": "Projects",
+      "api_access_label": "API Access",
+      "storage_label": "Storage",
+      "weekly_reports_label": "Weekly Reports",
+      "support_label": "24/7 Support",
+
+
+    
+      "feature_item_1_title": "24/7 Live Support",
+      "feature_item_1_description": "During your meetings, benefit from our uninterrupted live support service whenever you need assistance.",
+      "feature_item_2_title": "User-Friendly Interface",
+      "feature_item_2_description": "Easily manage your meetings and efficiently organize your participants with our simple and intuitive interface.",
+      "feature_item_3_title": "Secure Data Transfer",
+      "feature_item_3_description": "All your meeting data is protected by top-level security protocols, ensuring your information is always safe.",
+
+
+    
+      "seo_about_title": "About Us - Meeting2.Me: Modern Meeting Management System",
+      "seo_about_description": "Organize your meetings professionally and enhance productivity with Meeting2.Me. Discover our reliable and user-friendly interface.",
+      
+      "seo_homepage_title": "Home - Meeting2.Me: Easily Manage Your Meetings",
+      "seo_homepage_description": "Manage your meetings easily with Meeting2.Me, organize participants, and optimize your workflows.",
+    
+      "seo_contact_title": "Contact - Meeting2.Me: Get in Touch with Us",
+      "seo_contact_description": "Reach out to us with any questions. The Meeting2.Me team is happy to assist you.",
+
+      "seo_pricing_title": "Pricing - Meeting2.Me: Plans and Pricing",
+      "seo_pricing_description": "Explore the various pricing plans of Meeting2.Me. Choose the one that suits your needs and manage your meetings professionally.",
+    
+      "seo_signin_title": "Sign In - Meeting2.Me: Log in to Your Account",
+      "seo_signin_description": "Log in to your Meeting2.Me account and start managing your meetings. Easy, secure, and fast.",
+    
+      "seo_signup_title": "Sign Up - Meeting2.Me: Create Your Account",
+      "seo_signup_description": "Create a new Meeting2.Me account and start managing your meetings professionally. The signup process takes just a few steps.",
+
+
+
+    
+      "terms_conditions_title": "Terms and Conditions",
+      "terms_conditions_text": "This website is operated by Meeting2.me. Throughout the site, the terms 'we', 'us', and 'our' refer to Meeting2.me. Meeting2.me offers this website, including all information, tools, and services available from this site to you, the user, conditioned upon your acceptance of all terms, conditions, policies, and notices stated here.",
+      "terms_conditions_text_2": "By visiting our site and/or purchasing something from us, you engage in our 'Service' and agree to be bound by the following terms and conditions. These Terms of Service apply to all users of the site, including without limitation users who are browsers, vendors, customers, merchants, and/or contributors of content. Please read these Terms of Service carefully before accessing or using our website. By accessing or using any part of the site, you agree to be bound by these Terms of Service. If you do not agree to all the terms and conditions of this agreement, then you may not access the website or use any services.",
+      "terms_conditions_text_3": "Any new features or tools which are added to the current store shall also be subject to the Terms of Service. You can review the most current version of the Terms of Service at any time on this page. We reserve the right to update, change, or replace any part of these Terms of Service by posting updates and/or changes to our website. It is your responsibility to check this page periodically for changes. Your continued use of or access to the website following the posting of any changes constitutes acceptance of those changes.",
+    
+      "privacy_policy_title": "Privacy Policy",
+      "privacy_policy_text": "At Meeting2.me, we greatly value the privacy of our users. We take the highest security measures to protect the confidentiality of your personal information. By using our website, you consent to the processing of your personal data in accordance with this Privacy Policy.",
+      "privacy_policy_text_2": "The personal information we collect is used to verify your identity, provide and improve our services. This information is not shared with third parties without your consent. For more information on how we protect your personal information, please review our Privacy Policy.",
+      "privacy_policy_text_3": "Data collected while using our website is processed using cookies and similar technologies. These technologies are used to enhance your user experience and manage our website more effectively. If you wish to control the use of cookies, please refer to your browser settings.",
+    
+      "user_policy_title": "User Policy",
+      "user_policy_text": "When using Meeting2.me services, you are required to adhere to certain rules. These rules are important to ensure a safe and efficient experience for all our users. By using the site, you agree to comply with these rules.",
+      "user_policy_text_2": "Users must use our services in compliance with the law and respect the rights of other users. If any illegal activity or rights infringement is detected, we reserve the right to terminate your access to our services.",
+      "user_policy_text_3": "Users are required to keep their account information confidential and protect it against unauthorized access. We recommend using a strong password and changing it regularly to ensure the security of your account.",
+      "user_policy_text_4": "All transactions conducted through Meeting2.me are recorded and may be used for review purposes if necessary. By using our services, you agree to these policies.",
+    
+      "account_billing_title": "Account and Billing",
+      "account_billing_text": "When signing up for Meeting2.me services, you are required to provide accurate and complete account information. This information will be used for billing and communication purposes.",
+      "account_billing_text_2": "Payments for our services are processed using secure payment methods. Your credit card information is processed and stored in compliance with the highest security standards. We take all necessary measures to ensure the security of your payment information.",
+      "account_billing_text_3": "You can view and manage all your subscriptions and billing transactions through the account settings section. If you encounter any billing issues, you can contact our customer service.",
+      "account_billing_text_4": "It is important to keep your account information up to date. You should update your address, phone number, and payment details when necessary to ensure that they are accurate and complete.",
+    
+      "cookies_title": "Cookies",
+      "cookies_text": "Our website uses cookies to enhance the user experience. Cookies are small data files placed on your computer or device via your browser.",
+      "cookies_text_2": "Cookies are used to remember your preferences, store session information, and perform analytics to improve site performance. The use of cookies collects anonymous data about how you use our website.",
+      "cookies_text_3": "You can choose to accept or reject cookies by changing your browser settings. Limiting the use of cookies may cause some features of our website to not function properly.",
+    
+      "copyrights_title": "Copyrights",
+      "copyrights_text": "All content, graphics, texts, logos, and other materials on our website are owned by Meeting2.me and are protected by copyright laws. Unauthorized copying, distribution, or use is prohibited.",
+      "copyrights_text_2": "Written permission is required for any use of the content. We reserve the right to take legal action in case of infringement.",
+      "copyrights_text_3": "All rights reserved. To report copyright infringements, please contact us.",
+
+      "terms_conditions_heading": "Terms and Conditions",
+
+
+      "reset_password_title": "Reset Password",
+      "reset_password_subtitle": "Please enter your email address, and we'll send you a link to reset your password.",
+      "reset_password_email_label": "Email Address",
+      "reset_password_button": "Send Password Reset Link",
+      "reset_password_back_to_signin": "Back to Sign In",
+      "seo_reset_password_title": "Reset Password - Meeting2.me",
+      "seo_reset_password_description": "Reset your password for Meeting2.me."
+
+                    
+  
+              
+            
+            
+          
+          
+        
+        
+    
+    
+      
+    
+    
+  
+  
+  
+  
+}
+

@@ -1,0 +1,300 @@
+{
+  "section_title": "Toplantılarınızı Profesyonelce Planlayın",
+  "section_description": "Katılımcılarınızı kolayca yönetin, toplantılarınızı raporlayın, geliştirin ve mükemmelleştirin.",
+  "signup_button": "Kayıt Ol",
+  "pricing_button": "Fiyat Listesi",
+
+  
+  "section_header": "Toplantılarınızı profesyonelce ve güvenli bir şekilde yönetin.",
+  "section_paragraph": "Toplantı ve eğitim süreçlerini profesyonelce yönetin, katılımcıları verimli bir şekilde organize edin ve detaylı analizlerle optimize ederek genel iş verimliliğini artırın.",
+  "checklist_item_1": "Katılımcılarınızı basitçe kayıt edin.",
+  "checklist_item_2": "Katılımcıları gruplara ayırarak daha verimli toplantılar düzenleyin.",
+  "checklist_item_3": "Toplantıya katılacak grupları seçerek toplantı başlatın.",
+  "checklist_item_4": "Toplantılarınızın verimliliğini analiz edin ve iyileştirin.",
+  "checklist_item_5": "Veya misafirlerinizi toplantıya davet etmek için link paylaşın.",
+
+
+  "section_quote": "Toplantı ve eğitim süreçlerini tasarruflu, sistematik, raporlanabilir ve en güvenilir şekilde yönetin, katılımcıları verimli bir şekilde organize edin ve detaylı analizlerle optimize ederek genel iş verimliliğini artırın.",
+  "feature_title_1": "1. KVKK Uygunluğu",
+  "feature_description_1": "Türkiye'de KVKK kurallarına uygun tek online toplantı platformu.",
+  "feature_title_2": "2. Hızlıca Planla",
+  "feature_description_2": "Takviminizden tarih seçerek çok detaylı hızlıca toplantı planlayabilirsiniz.",
+  "feature_title_3": "3. Grupları Yönetme",
+  "feature_description_3": "Katılımcıları hızlıca oluştururken onları gruplara ekleyip kolayca yönetebilirsiniz.",
+
+  
+    "pricing_title": "fiyat tablosu",
+    "pricing_subtitle": "Ücretsiz denemek ve tüm özelliklerimizi keşfetmek için hemen kayıt olun",
+    "monthly": "Aylık",
+    "yearly": "Yıllık",
+    "choose_plan": "Planı Seç",
+    "projects": "Projeler",
+    "api_access": "API Erişimi",
+    "storage": "Depolama",
+    "weekly_reports": "Haftalık Raporlar",
+    "support": "7/24 Destek",
+
+    "join_us": "Bize şimdi katılın ve toplantılarınızı profesyonelce yönetin.",
+    "sign_up": "Kayıt Ol",
+    "try_for_free": "Ücretsiz Dene",
+
+    "footer_copyright": "Tüm hakları saklıdır.",
+    "footer_address_title": "Adres",
+    "footer_address": "Moonshine St. 14/05 New Jersey, America",
+    "footer_about_title": "Hakkımızda",
+    "footer_newsletter_title": "Kampanya Aboneliği",
+    "footer_newsletter_text": "Size özel kampanyalarımızdan haberdar olmak için abone olun.",
+    "footer_email_placeholder": "Email Adresi",
+    "footer_email_label": "Email",
+    "footer_subscribe_button": "Kayıt",
+
+    "privacy_policy": "Gizlilik Politikası",
+    "terms_and_conditions": "Şartlar ve Koşullar",
+    "about_sss": "S.S.S.",
+
+    "faq2_1_question": "Abonelik faturamı nasıl alabilirim?",
+    "faq2_1_answer": "Abonelik faturanızı hesap ayarları bölümünden veya e-posta adresinize gönderilen faturalar kısmından alabilirsiniz.",
+    "faq2_2_question": "Üniversite veya vakıf kuruluşlarına destek sağlıyor musunuz?",
+    "faq2_2_answer": "Evet, belirli koşullar dışında üniversite kulüplerine, etkinliklerine veya vakıflara özel indirimler sunuyoruz. Daha fazla bilgi için müşteri hizmetlerimizle iletişime geçebilirsiniz.",
+    "faq2_3_question": "Ücretsiz deneme sunuyor musunuz?",
+    "faq2_3_answer": "Evet, platformumuzu ücretsiz olarak denemeniz için belirli bir süre boyunca ücretsiz deneme sunuyoruz. Kayıt olarak ücretsiz denemeden faydalanabilirsiniz.",
+    "faq2_4_question": "Kişisel verilerim yurt dışına aktarılıyor mu?",
+    "faq2_4_answer": "Hayır, kişisel verileriniz KVKK'ya uygun olarak yalnızca yerel sunucularda saklanır ve işlenir. Verilerinizin yurt dışına aktarılmaması için tüm önlemler alınmaktadır.",
+    "faq2_5_question": "Toplantılarım kaydediliyor mu?",
+    "faq2_5_answer": "Evet, toplantılarınızı kaydetme seçeneğiniz bulunmaktadır. Kaydedilen toplantılar güvenli bir şekilde saklanır ve sadece yetkili kişiler tarafından erişilebilir.",
+    "faq2_6_question": "Bir toplantıya nasıl katılabilirim?",
+    "faq2_6_answer": "Davetiye e-postasında yer alan toplantı linkine tıklayarak veya yönetim panelinizden toplantı detaylarına ulaşarak katılabilirsiniz.",
+    "faq2_7_question": "Toplantı sırasında teknik destek alabilir miyim?",
+    "faq2_7_answer": "Evet, toplantılarınız sırasında 7/24 canlı destek ekibimizden yardım alabilirsiniz. Anında çözüm için destek butonunu kullanarak bizimle iletişime geçebilirsiniz.",
+  
+    "faq3_1_question": "Aboneliğimi iptal edebilir miyim?",
+    "faq3_1_answer": "Evet, aboneliğinizi istediğiniz zaman iptal edebilirsiniz. Bizimle iletişime geçmeniz yeterlidir.",
+    "faq3_2_question": "Hangi ödeme yöntemlerini kabul ediyorsunuz?",
+    "faq3_2_answer": "Kredi kartı, banka kartı veya havale gibi çeşitli ödeme yöntemlerini kabul ediyoruz. Ödeme seçenekleri hakkında daha fazla bilgi için ödeme sayfamızı ziyaret edebilirsiniz.",
+    "faq3_3_question": "Hesabımı nasıl yönetebilirim?",
+    "faq3_3_answer": "Hesap ayarlarınıza giriş yaparak profil bilgilerinizi güncelleyebilir, şifre değişikliği yapabilir ve abonelik seçeneklerinizi yönetebilirsiniz.",
+    "faq3_4_question": "KVKK'ya nasıl uyum sağlıyorsunuz?",
+    "faq3_4_answer": "Meeting2.me, Kişisel Verilerin Korunması Kanunu (KVKK) kapsamında tüm gerekli önlemleri alır. Verileriniz güvenli sunucularda saklanır ve üçüncü taraflarla paylaşılmaz. Detaylı bilgi için gizlilik politikamızı inceleyebilirsiniz.",
+    "faq3_5_question": "Şifremi nasıl sıfırlayabilirim?",
+    "faq3_5_answer": "Giriş sayfasında yer alan 'Şifremi Unuttum' bağlantısına tıklayarak veya profil ayarlarınızdan şifrenizi sıfırlayabilirsiniz. E-posta adresinize gönderilen talimatları izleyerek yeni bir şifre oluşturabilirsiniz.",
+    "faq3_6_question": "Verilerim ne kadar güvende?",
+    "faq3_6_answer": "Veri güvenliğiniz bizim için önceliklidir. Tüm verileriniz, endüstri standardı şifreleme teknikleri ile korunur ve düzenli olarak güvenlik denetimleri yapılır.",
+    "faq3_7_question": "Toplantılarımı nasıl raporlayabilirim?",
+    "faq3_7_answer": "Toplantılarınızın detaylı raporlarını, yönetim panelinden görüntüleyebilir ve indirebilirsiniz. Katılımcıların süreleri, katılım durumu ve diğer önemli metrikler raporlarda yer alır.",
+    
+    "features10_1_title": "Canlı Destek",
+    "features10_1_description": "Toplantılarınız sırasında 7/24 erişilebilir canlı destek hizmeti sunuyoruz.",
+    "features10_2_title": "Etkili Toplantı Yönetimi",
+    "features10_2_description": "Kolay ve etkili toplantı yönetimi ile katılımcılarınızı verimli bir şekilde organize edin.",
+    "features10_3_title": "Kolay Entegrasyon",
+    "features10_3_description": "Mevcut sistemlerinize hızlı ve sorunsuz entegrasyon, iş akışınızı kesintiye uğratmadan çalışır.",
+    "features10_4_title": "Detaylı Analizler",
+    "features10_4_description": "Toplantılarınızın verimliliğini artırmak için kapsamlı analiz ve raporlama araçları.",
+
+  
+    "faq_section_title": "Sık Sorulan Sorular",
+    "faq_section_subtitle": "Cevabını bulamadığınız tüm sorular için bizimle iletişime geçebilirsiniz.",
+
+    "homepage": "Ana Sayfa",
+    "about_faq": "Hakkımızda",
+    "pricing": "Fiyatlandırma",
+    "contact": "İletişim",
+
+
+      "pricing_faq_title": "Fiyatlandırma SSS",
+      "pricing_faq_subtitle": "Sorunuzun cevabını burada bulamazsanız, iletişim formumuzdan bize e-posta gönderebilirsiniz.",
+      "pricing_faq2_1_question": "Abonelik faturamı nasıl alabilirim?",
+      "pricing_faq2_1_answer": "Abonelik faturanızı hesap ayarları bölümünden veya e-posta adresinize gönderilen faturalar kısmından alabilirsiniz.",
+      "pricing_faq2_2_question": "Üniversite veya vakıf kuruluşlarına destek sağlıyor musunuz?",
+      "pricing_faq2_2_answer": "Evet, belirli koşullar dışında üniversite kulüplerine, etkinliklerine veya vakıflara özel indirimler sunuyoruz. Daha fazla bilgi için müşteri hizmetlerimizle iletişime geçebilirsiniz.",
+      "pricing_faq2_3_question": "Ücretsiz deneme sunuyor musunuz?",
+      "pricing_faq2_3_answer": "Evet, platformumuzu ücretsiz olarak denemeniz için belirli bir süre boyunca ücretsiz deneme sunuyoruz. Kayıt olarak ücretsiz denemeden faydalanabilirsiniz.",
+      "pricing_faq2_4_question": "Kişisel verilerim yurt dışına aktarılıyor mu?",
+      "pricing_faq2_4_answer": "Hayır, kişisel verileriniz KVKK'ya uygun olarak yalnızca yerel sunucularda saklanır ve işlenir. Verilerinizin yurt dışına aktarılmaması için tüm önlemler alınmaktadır.",
+      "pricing_faq2_5_question": "Toplantılarım kaydediliyor mu?",
+      "pricing_faq2_5_answer": "Evet, toplantılarınızı kaydetme seçeneğiniz bulunmaktadır. Kaydedilen toplantılar güvenli bir şekilde saklanır ve sadece yetkili kişiler tarafından erişilebilir.",
+      "pricing_faq2_6_question": "Bir toplantıya nasıl katılabilirim?",
+      "pricing_faq2_6_answer": "Davetiye e-postasında yer alan toplantı linkine tıklayarak veya yönetim panelinizden toplantı detaylarına ulaşarak katılabilirsiniz.",
+      "pricing_faq2_7_question": "Toplantı sırasında teknik destek alabilir miyim?",
+      "pricing_faq2_7_answer": "Evet, toplantılarınız sırasında 7/24 canlı destek ekibimizden yardım alabilirsiniz. Anında çözüm için destek butonunu kullanarak bizimle iletişime geçebilirsiniz.",
+      "pricing_faq3_1_question": "Aboneliğimi iptal edebilir miyim?",
+      "pricing_faq3_1_answer": "Evet, aboneliğinizi istediğiniz zaman iptal edebilirsiniz. Bizimle iletişime geçmeniz yeterlidir.",
+      "pricing_faq3_2_question": "Hangi ödeme yöntemlerini kabul ediyorsunuz?",
+      "pricing_faq3_2_answer": "Kredi kartı, banka kartı veya havale gibi çeşitli ödeme yöntemlerini kabul ediyoruz. Ödeme seçenekleri hakkında daha fazla bilgi için ödeme sayfamızı ziyaret edebilirsiniz.",
+      "pricing_faq3_3_question": "Hesabımı nasıl yönetebilirim?",
+      "pricing_faq3_3_answer": "Hesap ayarlarınıza giriş yaparak profil bilgilerinizi güncelleyebilir, şifre değişikliği yapabilir ve abonelik seçeneklerinizi yönetebilirsiniz.",
+      "pricing_faq3_4_question": "KVKK'ya nasıl uyum sağlıyorsunuz?",
+      "pricing_faq3_4_answer": "Meeting2.me, Kişisel Verilerin Korunması Kanunu (KVKK) kapsamında tüm gerekli önlemleri alır. Verileriniz güvenli sunucularda saklanır ve üçüncü taraflarla paylaşılmaz. Detaylı bilgi için gizlilik politikamızı inceleyebilirsiniz.",
+      "pricing_faq3_5_question": "Şifremi nasıl sıfırlayabilirim?",
+      "pricing_faq3_5_answer": "Giriş sayfasında yer alan 'Şifremi Unuttum' bağlantısına tıklayarak veya profil ayarlarınızdan şifrenizi sıfırlayabilirsiniz. E-posta adresinize gönderilen talimatları izleyerek yeni bir şifre oluşturabilirsiniz.",
+      "pricing_faq3_6_question": "Verilerim ne kadar güvende?",
+      "pricing_faq3_6_answer": "Veri güvenliğiniz bizim için önceliklidir. Tüm verileriniz, endüstri standardı şifreleme teknikleri ile korunur ve düzenli olarak güvenlik denetimleri yapılır.",
+      "pricing_faq3_7_question": "Toplantılarımı nasıl raporlayabilirim?",
+      "pricing_faq3_7_answer": "Toplantılarınızın detaylı raporlarını, yönetim panelinden görüntüleyebilir ve indirebilirsiniz. Katılımcıların süreleri, katılım durumu ve diğer önemli metrikler raporlarda yer alır.",
+
+      "join_community_title": "Topluluğumuza Katılın",
+      "join_community_subtitle": "5000'den fazla müşteri tarafından güvenle tercih ediliyoruz. Hizmetlerimizi kullanarak onlara katılın ve işinizi büyütün.",
+      "join_community_button": "Bize Katılın",
+
+      "contact_us_title": "İletişime Geçin",
+      "breadcrumb_home": "Ana Sayfa",
+      "breadcrumb_contact": "İletişim",
+
+      "contact_title": "İletişime Geçin",
+      "contact_heading": "Bizimle iletişime geçin",
+      "contact_users": "Kullanıcı",
+      "contact_form_title": "İletişim Formu",
+      "contact_form_subtitle": "Detaylı fiyat teklifi almak ve taleplerinizi iletmek için lütfen iletişime geçin.",
+      "contact_form_name_label": "Ad *",
+      "contact_form_surname_label": "Soyad *",
+      "contact_form_email_label": "Email *",
+      "contact_form_department_label": "Hakkınızda",
+      "contact_form_department_option1": "Eğitmen",
+      "contact_form_department_option2": "Firma Çalışanı",
+      "contact_form_department_option3": "Firma Sahibi",
+      "contact_form_message_label": "Detaylı Mesaj *",
+      "contact_form_submit": "Gönder",
+      "contact_form_required_note": "* Zorunlu alanlar.",
+
+      "signup_title": "2.Me'ye Kayıt Olun",
+      "signup_subtitle": "Kayıt işlemi bir dakikadan az sürer.",
+      "signup_name_label": "Ad",
+      "signup_email_label": "Email",
+      "signup_password_label": "Şifre",
+      "signup_confirm_password_label": "Şifreyi Onaylayın",
+      "signup_already_have_account": "Zaten bir hesabınız var mı?",
+      "signup_signin": "Giriş yap",
+      "signup_or": "veya",
+      "signin": "Giriş Yap",
+      "signup": "Kayıt Ol",
+      "signup_phone_label": "Telefon Numarası",
+      "signup_phone_optional": "Zorunlu değil",
+      "signup_logged_in_message": "Bu sayfaya ulaşmak için önce çıkış yapmalısınız",
+      "signup_logout_button": "Çıkış Yap",
+      "panel": "Yönetici Paneli",
+      "welcome_message": "Hoş geldiniz, ",
+      "admin_panel_message": "Yönetici Paneline giderek hemen toplantılarınızı düzenlemeye başlayabilirsiniz.",
+      "go_to_admin_panel": "Yönetici Paneline Git",
+
+
+      "signin_title": "Tekrar Hoşgeldiniz",
+      "signin_subtitle": "Giriş yapmak için email ve şifrenizi girin.",
+      "signin_email_label": "Email",
+      "signin_password_label": "Şifre",
+      "signin_button": "Giriş Yap",
+      "signin_forgot_password": "Şifrenizi mi unuttunuz?",
+      "signin_no_account": "Hesabınız yok mu?",
+      "signin_signup": "Kayıt Ol",
+      "signin_or": "veya",
+
+     "pricing_page_title": "Fiyat Listesi",
+     "pricing_page_description": "İşletmeniz için harika fiyatlar, premium ürünler ve kaliteli hizmet sunuyoruz.",
+
+
+     
+      "monthly_label": "Aylık",
+      "yearly_label": "Yıllık",
+      "choose_plan_button": "Planı Seç",
+      "projects_label": "Projeler",
+      "api_access_label": "API Erişimi",
+      "storage_label": "Depolama",
+      "weekly_reports_label": "Haftalık Raporlar",
+      "support_label": "7/24 Destek",
+
+    
+      "feature_item_1_title": "7/24 Canlı Destek",
+      "feature_item_1_description": "Toplantılarınız sırasında, her an yardım alabileceğiniz kesintisiz canlı destek hizmetimizden faydalanın.",
+      "feature_item_2_title": "Kullanıcı Dostu Arayüz",
+      "feature_item_2_description": "Basit ve sezgisel arayüzümüz ile toplantılarınızı kolayca yönetin ve katılımcılarınızı verimli bir şekilde organize edin.",
+      "feature_item_3_title": "Güvenli Veri Transferi",
+      "feature_item_3_description": "Tüm toplantı verileriniz, en üst düzey güvenlik protokolleri ile korunur, böylece bilgileriniz her zaman güvende kalır.",
+
+
+      
+      "seo_about_title": "Hakkımızda - Meeting2.Me: Modern Toplantı Yönetim Sistemi",
+      "seo_about_description": "Meeting2.Me ile toplantılarınızı profesyonelce organize edin ve verimliliği artırın. Güvenilir ve kullanıcı dostu arayüzümüzle tanışın.",
+      
+      "seo_homepage_title": "Ana Sayfa - Meeting2.Me: Toplantılarınızı Kolayca Yönetin",
+      "seo_homepage_description": "Meeting2.Me ile toplantılarınızı kolayca yönetin, katılımcıları organize edin ve iş süreçlerinizi optimize edin.",
+    
+      "seo_contact_title": "İletişim - Meeting2.Me: Bize Ulaşın",
+      "seo_contact_description": "Her türlü sorunuz için bizimle iletişime geçin. Meeting2.Me ekibi olarak size yardımcı olmaktan mutluluk duyarız.",
+
+      "seo_pricing_title": "Fiyatlandırma - Meeting2.Me: Planlar ve Fiyatlar",
+      "seo_pricing_description": "Meeting2.Me'nin çeşitli fiyatlandırma planlarını keşfedin. İhtiyaçlarınıza en uygun olanı seçin ve toplantılarınızı profesyonelce yönetin.",
+    
+      "seo_signin_title": "Giriş Yap - Meeting2.Me: Hesabınıza Giriş Yapın",
+      "seo_signin_description": "Meeting2.Me hesabınıza giriş yaparak toplantılarınızı yönetmeye başlayın. Kolay, güvenli ve hızlı.",
+    
+      "seo_signup_title": "Kayıt Ol - Meeting2.Me: Hesabınızı Oluşturun",
+      "seo_signup_description": "Yeni bir Meeting2.Me hesabı oluşturun ve toplantılarınızı profesyonelce yönetmeye başlayın. Kayıt işlemi sadece birkaç adımda tamamlanır.",
+
+
+    
+      "terms_conditions_title": "Şartlar ve Koşullar",
+      "terms_conditions_text": "Bu web sitesi Meeting2.me tarafından işletilmektedir. Site boyunca, 'biz', 'bize' ve 'bizim' terimleri Meeting2.me'yi ifade eder. Meeting2.me, bu sitede yer alan tüm bilgiler, araçlar ve hizmetler dahil olmak üzere bu web sitesini, burada belirtilen tüm hükümleri, koşulları, politikaları ve bildirimleri kabul etmeniz koşuluyla siz kullanıcıya sunmaktadır.",
+      "terms_conditions_text_2": "Sitemizi ziyaret ederek ve/veya bizden bir hizmet alarak, bu Hizmet Koşullarına tabi olmayı kabul etmiş olursunuz. Bu Hizmet Koşulları, tarayıcılar, satıcılar, müşteriler ve sitemize katkıda bulunan diğer kullanıcılar dahil olmak üzere sitenin tüm kullanıcıları için geçerlidir. Lütfen web sitemizi kullanmadan önce bu Hizmet Koşullarını dikkatlice okuyun. Siteye erişerek veya siteyi kullanarak, bu Hizmet Koşullarına tabi olmayı kabul etmiş olursunuz. Eğer bu koşulları kabul etmiyorsanız, siteye erişemez veya herhangi bir hizmeti kullanamazsınız.",
+      "terms_conditions_text_3": "Web sitemizde sunulan herhangi bir yeni özellik veya araç da bu Hizmet Koşullarına tabi olacaktır. Hizmet Koşullarının en güncel versiyonunu istediğiniz zaman bu sayfadan inceleyebilirsiniz. Web sitemizde güncellemeler ve değişiklikler yayınlayarak bu Hizmet Koşullarının herhangi bir bölümünü güncelleme, değiştirme veya yerini yenisini koyma hakkımızı saklı tutarız. Değişiklikler için bu sayfayı periyodik olarak kontrol etmek sizin sorumluluğunuzdadır. Herhangi bir değişikliğin yayınlanmasının ardından web sitesini kullanmaya devam etmeniz, bu değişiklikleri kabul ettiğiniz anlamına gelir.",
+    
+      "privacy_policy_title": "Gizlilik Politikası",
+      "privacy_policy_text": "Meeting2.me olarak, kullanıcılarımızın gizliliğine büyük önem veriyoruz. Kişisel bilgilerinizin gizliliğini korumak için en yüksek güvenlik önlemlerini alıyoruz. Web sitemizi kullanarak, kişisel verilerinizin bu Gizlilik Politikası çerçevesinde işlenmesini kabul etmiş olursunuz.",
+      "privacy_policy_text_2": "Topladığımız kişisel bilgiler, kimliğinizi doğrulamak, hizmetlerimizi sunmak ve geliştirmek için kullanılır. Bu bilgiler, sizin izniniz olmadan üçüncü taraflarla paylaşılmaz. Kişisel bilgilerinizin korunmasına ilişkin daha fazla bilgi için Gizlilik Politikamızı inceleyebilirsiniz.",
+      "privacy_policy_text_3": "Web sitemizi kullanırken toplanan veriler, çerezler ve benzeri teknolojiler kullanılarak işlenir. Bu teknolojiler, kullanıcı deneyiminizi iyileştirmek ve web sitemizi daha etkili bir şekilde yönetmek için kullanılır. Çerezlerin kullanımını kontrol etmek isterseniz, tarayıcı ayarlarınıza başvurabilirsiniz.",
+    
+      "user_policy_title": "Kullanıcı Politikası",
+      "user_policy_text": "Meeting2.me hizmetlerini kullanırken, belirli kurallara uymanız gerekmektedir. Kullanıcılarımızın güvenli ve verimli bir deneyim yaşamaları için bu kurallar önemlidir. Siteyi kullanarak bu kurallara uyacağınızı kabul etmiş olursunuz.",
+      "user_policy_text_2": "Kullanıcılar, hizmetlerimizi yasalara uygun bir şekilde kullanmalı ve diğer kullanıcıların haklarına saygı göstermelidir. Herhangi bir yasa dışı faaliyet veya hak ihlali tespit edildiğinde, hizmetlerimize erişiminizi sonlandırma hakkımız saklıdır.",
+      "user_policy_text_3": "Kullanıcıların, hesap bilgilerini gizli tutmaları ve yetkisiz erişimlere karşı korumaları gerekmektedir. Hesabınızın güvenliği için güçlü bir şifre kullanmanızı ve şifrenizi düzenli olarak değiştirmenizi tavsiye ederiz.",
+      "user_policy_text_4": "Meeting2.me üzerinden yapılan tüm işlemler kayıt altına alınır ve gerektiğinde inceleme amacıyla kullanılabilir. Hizmetlerimizi kullanarak bu politikaları kabul etmiş olursunuz.",
+    
+      "account_billing_title": "Hesap ve Faturalandırma",
+      "account_billing_text": "Meeting2.me hizmetlerine kaydolduğunuzda, doğru ve eksiksiz hesap bilgileri sağlamanız gerekmektedir. Bu bilgiler, faturalandırma ve iletişim amacıyla kullanılacaktır.",
+      "account_billing_text_2": "Hizmetlerimiz için yapılan ödemeler güvenli ödeme yöntemleri kullanılarak işlenir. Kredi kartı bilgileriniz, yüksek güvenlik standartlarına uygun olarak işlenir ve saklanır. Ödeme bilgilerinizin güvenliği için gerekli tüm önlemleri alıyoruz.",
+      "account_billing_text_3": "Abonelikleriniz ve faturalandırma işlemlerinizle ilgili tüm bilgileri, hesap ayarları bölümünden görüntüleyebilir ve yönetebilirsiniz. Herhangi bir faturalandırma sorununda müşteri hizmetlerimizle iletişime geçebilirsiniz.",
+      "account_billing_text_4": "Hesap bilgilerinizi güncel tutmanız önemlidir. Adres, telefon numarası ve ödeme bilgileri gibi bilgileri gerektiğinde güncelleyerek doğru ve eksiksiz olmasını sağlamalısınız.",
+    
+      "cookies_title": "Çerezler",
+      "cookies_text": "Web sitemiz, kullanıcı deneyimini iyileştirmek amacıyla çerezler kullanmaktadır. Çerezler, tarayıcınız aracılığıyla bilgisayarınıza veya cihazınıza yerleştirilen küçük veri dosyalarıdır.",
+      "cookies_text_2": "Çerezler, web sitemizde gezinirken tercihlerinizi hatırlamak, oturum bilgilerinizi saklamak ve analizler yaparak site performansını artırmak için kullanılır. Çerezlerin kullanımı, web sitemizi nasıl kullandığınız hakkında anonim veriler toplar.",
+      "cookies_text_3": "Tarayıcı ayarlarınızı değiştirerek çerezleri kabul etmeyi veya reddetmeyi seçebilirsiniz. Çerezlerin kullanımını sınırlamak, web sitemizin bazı özelliklerinin düzgün çalışmamasına neden olabilir.",
+    
+      "copyrights_title": "Telif Hakları",
+      "copyrights_text": "Web sitemizde yer alan tüm içerikler, grafikler, metinler, logolar ve diğer materyaller Meeting2.me'ye aittir ve telif hakkı yasaları ile korunmaktadır. İzinsiz kopyalama, dağıtma veya kullanma yasaktır.",
+      "copyrights_text_2": "İçeriklerin herhangi bir şekilde kullanılması için yazılı izin alınması gerekmektedir. İhlal durumunda yasal işlem başlatma hakkımız saklıdır.",
+      "copyrights_text_3": "Tüm hakları saklıdır. Telif hakkı ihlalleri ile ilgili bildirimlerde bulunmak için bizimle iletişime geçebilirsiniz.",
+
+      "terms_conditions_heading": "Şartlar ve Koşullar",
+
+
+      "reset_password_title": "Şifre Sıfırlama",
+      "reset_password_subtitle": "Lütfen e-posta adresinizi girin, size şifre sıfırlama bağlantısı gönderelim.",
+      "reset_password_email_label": "E-posta Adresi",
+      "reset_password_button": "Şifre Sıfırlama Bağlantısını Gönder",
+      "reset_password_back_to_signin": "Giriş yapmaya geri dön",
+      "seo_reset_password_title": "Şifre Sıfırlama - Meeting2.me",
+      "seo_reset_password_description": "Meeting2.me için şifrenizi sıfırlayın."
+
+    
+    
+
+
+          
+          
+        
+        
+      
+      
+    
+    
+  
+    
+    
+    
+    
+  
+  
+  
+  
+  
+  
+}

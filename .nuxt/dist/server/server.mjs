@@ -1,0 +1,1 @@
+export { default } from "file:///C:/Users/ismail.erden/Desktop/meeting-landing/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"

@@ -1,0 +1,11 @@
+{
+  "extends": "../.nuxt/tsconfig.server.json",
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "types": ["vue"], 
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./*"] 
+    }
+  }
+}
