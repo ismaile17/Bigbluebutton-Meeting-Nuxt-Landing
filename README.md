@@ -1,75 +1,31 @@
-# Nuxt 3 Minimal Starter
+# 🎯 Bigbluebutton-Meeting-Landing
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+A modern and responsive landing page built with **Nuxt 3** to showcase the [Bigbluebutton-Meeting-Vue](https://github.com/ismaile17/Bigbluebutton-Meeting-Vue) frontend and [Bigbluebutton-Meeting-Api](https://github.com/ismaile17/Bigbluebutton-Meeting-Api) backend.
 
-## Setup
+---
 
-Make sure to install the dependencies:
+### 🚀 Features
+
+- Built with **Nuxt 3** & **TypeScript**
+- Responsive layout with **Tailwind CSS**
+- Smooth scroll navigation and animated sections
+- Clean, SEO-friendly structure
+- Multilingual support ready (i18n)
+- Easily customizable components and layout
+
+---
+
+### 🔗 Related Projects
+
+- 💻 [Frontend (Vue 3)](https://github.com/ismaile17/Bigbluebutton-Meeting-Vue)  
+- ⚙️ [Backend (.NET API)](https://github.com/ismaile17/Bigbluebutton-Meeting-Api)
+
+---
+
+### 📦 Setup
 
 ```bash
-# npm
+git clone https://github.com/ismaile17/Bigbluebutton-Meeting-Nuxt-Landing.git
+cd Bigbluebutton-Meeting-Nuxt-Landing
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
 npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
